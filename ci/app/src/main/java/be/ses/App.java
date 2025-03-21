@@ -5,7 +5,7 @@ package be.ses;
 
 public class App {
     public String getGreeting() {
-        return "Hello World!";
+        return "Hello Ses students!";
     }
 
     public static void main(String[] args) {
